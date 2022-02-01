@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{hamilton}
+Mark~JD Hamilton.
+\newblock {\em Mathematical {G}auge {T}heory}.
+\newblock Springer, 2017.
+
+\bibitem{mackenzieGeneralTheory}
+K.~Mackenzie.
+\newblock General {T}heory of {L}ie {G}roupoids and {A}lgebroids.
+\newblock {\em London Mathematical Society Lecture Note Series}, 213, 2005.
+
+\bibitem{DaSilva}
+Ana~Cannas Da~Silva and Alan Weinstein.
+\newblock {\em Geometric models for noncommutative algebras}, volume~10.
+\newblock American Mathematical Soc., 1999.
+
+\bibitem{CurvedYMH}
+Alexei Kotov and Thomas Strobl.
+\newblock Curving {Y}ang-{M}ills-{H}iggs gauge theories.
+\newblock {\em Physical Review D}, 92(8):085032, 2015.
+
+\bibitem{basicconn}
+Camilo~Arias Abad and Marius Crainic.
+\newblock Representations up to homotopy of {L}ie algebroids.
+\newblock {\em Journal f{\"u}r die reine und angewandte Mathematik (Crelles
+  Journal)}, 2012(663):91--126, 2012.
+
+\end{thebibliography}

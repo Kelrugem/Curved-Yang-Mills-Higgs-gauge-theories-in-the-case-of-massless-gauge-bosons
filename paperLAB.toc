@@ -1,0 +1,15 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Basic definitions}{2}{section.2}%
+\contentsline {section}{\numberline {3}(Curved) Yang-Mills-Higgs gauge theories on Lie algebra bundles}{5}{section.3}%
+\contentsline {section}{\numberline {4}Relation of vector bundle connections in gauge theories with certain Lie derivation laws}{11}{section.4}%
+\contentsline {section}{\numberline {5}Obstruction for non-pre-classical gauge theories}{18}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Obstruction class}{18}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Mackenzie's theory about extensions of tangent bundles}{22}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Results}{24}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Existence of non-vanishing $\zeta $ stable under the field redefinition}{26}{section.6}%
+\contentsline {section}{\numberline {7}The Bianchi identity of the new field strength}{27}{section.7}%
+\contentsline {section}{\numberline {8}Conclusion}{29}{section.8}%
+\let \numberline \tmptocnumberline 
+\contentsline {section}{\numberline {Appendix~A}Identities for the calculus given in (C)YMH GT}{31}{appendix.A}%
+\contentsline {section}{\numberline {Appendix~B}Bibliography}{35}{appendix.B}%
